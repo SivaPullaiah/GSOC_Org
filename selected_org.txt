@@ -3,4 +3,4 @@
 	https://github.com/opencax/GSoC/issues/52
 3.CERN-HSF
 4.Long time participation CGAL Project
-5.FFmpeg long time 
+5.FFmpeg long time participating to gsoc and sortlisted
