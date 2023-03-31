@@ -4,3 +4,9 @@
 3.CERN-HSF
 4.Long time participation CGAL Project
 5.FFmpeg long time participating to gsoc and sortlisted
+
+In security:
+	score lab: Python, java, go, nodejs, reactjs
+	rizin : c, python, go, c++, qt
+praposal links: 
+https://youtu.be/p6Pu_5xO28w
